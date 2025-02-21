@@ -15,7 +15,7 @@ You, a young sorcerer's apprentice, have been given the task to retrieve and dec
 ### Specifications
 
 1. **Data Retrieval:**
-    - Use the magical HTTP call to fetch the scroll's content. You'll find the scroll in the Great Eldorian Library's `https://raw.githubusercontent.com/sombaner/copilot-hackathon-challenges/main/Data/Scrolls.txt` location.
+    - Use the magical HTTP call to fetch the scroll's content. You'll find the scroll in the Great Eldorian Library's `https://github.com/siddjoshi/copilot-hackathon-challenges/blob/main/scrolls.txt` location.
     - The content will be in text format.
 
 2. **Deciphering the Scroll:**
