@@ -12,6 +12,7 @@ Demo project for running labs to evaluate Copilot viability
     - [The Scrolls of Eldoria](#the-scrolls-of-eldoria)
     - [API Development and CRUD Operations](#api-development-and-crud-operations)
     - [Convert powershellscript to bash](#convert-powershellscript-to-bash)
+    - [Build Your Own AI-Powered Project](#build-your-own-ai-powered-project)
   - [Quick Links](#quick-links)
 
 ## Goal
@@ -103,6 +104,8 @@ The challenges can be categized into several core functions of Github Copilot, w
 ![API Development and CRUD Operations](Images/focus-challenge-3.png)
 ### Convert powershellscript to bash
 ![Convert powershellscript to bash](Images/focus-challenge-4.png)
+### Build Your Own AI-Powered Project
+![Build Your Own AI-Powered Project](Images/focus-challenge-5.png)
 
 ## Quick Links 
 
