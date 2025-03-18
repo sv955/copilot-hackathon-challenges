@@ -93,6 +93,7 @@ Run:
 - [The Scrolls of Eldoria](./Challenge-2.md)
 - [API Development and CRUD Operations](./Challenge-3.md)
 - [Convert powershellscript to bash](./Challenge-4.md)
+- [Build Your Own AI-Powered Project](Challenge-5.md)
 
 The challenges can be categized into several core functions of Github Copilot, which you can consider to choose, which are most effective for your individual learning experience:
 
